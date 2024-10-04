@@ -1,3 +1,8 @@
+"""
+Contains functions for training and testing a PyTorch model. Copied from Daniel Bourke's repo
+"""
+import torch
+
 import time
 from tqdm.auto import tqdm
 from typing import Dict, List, Tuple
